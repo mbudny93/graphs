@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# Node Graph Builder
+
+A React application that allows users to build a graph of connected nodes with various interaction modes.
+
+## Features
+
+- **Add Node Mode**: Add new circular nodes to the canvas
+- **Select Mode**: Select and move nodes freely around the canvas
+- **Connect Mode**: Connect two nodes with edges
+- **Delete Mode**: Remove nodes and all their connections
+- **Properties Pane**: View and edit properties of selected nodes and edges
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
